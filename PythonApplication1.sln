@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1.pyproj", "{B4B05CAC-74C1-4FC5-AA57-617EE3F1308B}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python-2", "..\Python-2\Python-2.pyproj", "{7DF6C7E5-FEDF-488B-A0E3-A1798BF9F41C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python-regex", "..\Python-regex\Python-regex.pyproj", "{D946ACDD-3D73-4495-9E92-7C1070A6420F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,10 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B4B05CAC-74C1-4FC5-AA57-617EE3F1308B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B4B05CAC-74C1-4FC5-AA57-617EE3F1308B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF6C7E5-FEDF-488B-A0E3-A1798BF9F41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF6C7E5-FEDF-488B-A0E3-A1798BF9F41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D946ACDD-3D73-4495-9E92-7C1070A6420F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D946ACDD-3D73-4495-9E92-7C1070A6420F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
