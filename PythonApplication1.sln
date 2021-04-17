@@ -9,6 +9,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python-2", "..\Python-2\Pyt
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python-regex", "..\Python-regex\Python-regex.pyproj", "{D946ACDD-3D73-4495-9E92-7C1070A6420F}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python-List", "..\Python-List\Python-List.pyproj", "{F207D8D2-28DD-4CDC-8994-A50A6FFD7860}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 		{7DF6C7E5-FEDF-488B-A0E3-A1798BF9F41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D946ACDD-3D73-4495-9E92-7C1070A6420F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D946ACDD-3D73-4495-9E92-7C1070A6420F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F207D8D2-28DD-4CDC-8994-A50A6FFD7860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F207D8D2-28DD-4CDC-8994-A50A6FFD7860}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
