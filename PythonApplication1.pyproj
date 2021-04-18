@@ -24,6 +24,7 @@
   <ItemGroup>
     <Compile Include="PythonApplication1.py" />
     <Compile Include="Python_List.py" />
+    <Compile Include="Python_regex.py" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
