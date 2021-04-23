@@ -13,6 +13,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python-List", "..\Python-Li
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python-firstFunction", "..\Python-firstFunction\Python-firstFunction.pyproj", "{09737E36-A4B8-4C6B-8A82-C61DBFEB140C}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python-Datetime", "..\Python-Datetime\Python-Datetime.pyproj", "{22DADF81-78CE-4896-A305-07D4D296EBB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,8 @@ Global
 		{F207D8D2-28DD-4CDC-8994-A50A6FFD7860}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09737E36-A4B8-4C6B-8A82-C61DBFEB140C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{09737E36-A4B8-4C6B-8A82-C61DBFEB140C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DADF81-78CE-4896-A305-07D4D296EBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DADF81-78CE-4896-A305-07D4D296EBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
